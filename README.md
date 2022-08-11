@@ -1,2 +1,2 @@
-# Demo_Application
+# TEACH
 Repositório de Pesquisa
